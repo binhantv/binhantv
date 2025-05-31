@@ -1,0 +1,182 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
+
+#Truyền hình IPTV BÌNH AN 01/02/2019 Chu Binh An
+#Mọi dữ liệu của IPTV đều được tổng hợp nhiều nguồn miễn phí trên internet, chúng tôi không trực tiếp xây dựng và phát sóng nội dung trên IPTV nên chúng tôi không chịu trách nhiệm về nội dung và vấn đề bản quyền. 
+#Mọi vấn đề bản quyền xin liên hệ, xin cảm ơn!
+
+
+#EXTINF:-1 group-title="KÊNH CBATVonline" tvg-logo="https://i.imgur.com/DEevG2p_d.webp?maxwidth=640&shape=thumb&fidelity=medium" , CBATV thông báo tất cả các kênh có thể không hoạt động, CBATV+ CHU BINH AN
+https://zmlehw.dm.files.1drv.com/y4mc2B5br7J1Ny2mVOb6RTRBR9U_uHF5DYegVGAZDX-8t9za-2wTrdHx-6z8GH8MFjcwfSYrnP3yEcIlyx5f3Y4LaXhH7ECrNQla2SETWay-BdEWpAt3GDAWqj_7O_BCIqII7pzxcumBNTlOsPVw50E-Q2z3DzhRVZJb1rd-7NJMaTk03tlIAq6OnTAp88Pqk0lKPSlKHCNitbi45gejA9BLQ/Cbatv.mp4?download&psid=1
+
+
+
+
+#-------------KÊNH VTV-------------
+
+
+#EXTINF:-1 group-title="VTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/VTV1_150x902.jpg",VTV1
+#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
+http://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/VTV2_150x902.jpg",VTV2
+https://live.fptplay53.net/fnxhd1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/VTV3_150x902.jpg",VTV3
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/VTV4_150x901.jpg",VTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/VTV5_150x901.jpg",VTV5
+#EXTVLCOPT:http-user-agent=cvmedia/1.1.0
+https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png", VTV Cần Thơ
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/VTV7_150x901.jpg",VTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+#https://zclehw.dm.files.1drv.com/y4maXV9m3x1K_PC0O3kIqqXwi3hP_R0pjF2nfuwVo4pxVFTc5Zj1xfRMh74earbSoxTPMvSqDqV7JJAzxroVHKLE5IdOoos2h60HQzTl78sm9SqKAxOFt3XoGXcLfN2E7_cGdWeiZ2ep0CFQqZhlAYqIGYTVu7gSFhjjy7MJ_QWypHVTgBG72DPPHfOItLga-v_Ehps3R5Ll63fxvTogXDZ3A/VE%20Project%201%C3%A2.mp4?download&psid=1
+
+#EXTINF:-1 group-title="VTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/VTV8_150x901.jpg",VTV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/VTV9_150x901.jpg",VTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
+
+
+
+
+#-------------THỜI SỰ - CHÍNH TRỊ---------------
+
+ 
+ #EXTINF:-1 group-title="THỜI SỰ - CHÍNH TRỊ" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/AnNinhTVHD_150x902.jpg",ANTV
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="THỜI SỰ - CHÍNH TRỊ" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/QPVN_150x902.jpg",QPVN
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+
+
+
+#---------------KÊNH CBATVonline-----------------
+
+
+
+#EXTINF:-1 group-title="KÊNH CBATVonline" tvg-logo="https://i.imgur.com/DEevG2p_d.webp?maxwidth=640&shape=thumb&fidelity=medium",CBATV+ Đang thử nghiệm
+#https://z8mbtw.dm.files.1drv.com/y4mKvKzeLl54Tg6qDnYe4VPNbqRHCqnZ-cq5gM4j7oXS2pXnT7flkWtEvFX_bqhmx9uh-JvsLhhikNwIwtXbR5xGwsioJluRJspogyiwTPIlv9TxsYewn8VyAlZ32SnA96Bhn9taYxa8NYkezSakAAvSZwRgm0O8CizXZR3XW3gUyGJCa3LGtuycjOuaHJWNscck6epBP_5hQdWZoEj08S90g/CBATV%20BINHAN.mp4?download&psid=1
+#https://y8kaqw.dm.files.1drv.com/y4mn3ShZ3HHYyYgr1736IMVLSIk71rYwAcAzHHBpNTJ7_-K3CpGzLeFP15FR5GgY8JqCN7lisLVp2G4IlqeVgRYiuvkAAAjzwxivDPc0E47FJEITcrI1VIuiucyyUXnC6vdejYFfQZLGn7Ss3tBTLuor4613BUj5hXJxzhYZ3Ix5jNukN1Vt9JcES0tAszPbJHMet9aTM5rQwPWT3v6HadXhQ/IPTVBINHANVIDEO.mp4?download&psid=1
+#https://y8kaqw.dm.files.1drv.com/y4mn3ShZ3HHYyYgr1736IMVLSIk71rYwAcAzHHBpNTJ7_-K3CpGzLeFP15FR5GgY8JqCN7lisLVp2G4IlqeVgRYiuvkAAAjzwxivDPc0E47FJEITcrI1VIuiucyyUXnC6vdejYFfQZLGn7Ss3tBTLuor4613BUj5hXJxzhYZ3Ix5jNukN1Vt9JcES0tAszPbJHMet9aTM5rQwPWT3v6HadXhQ/IPTVBINHANVIDEO.mp4?download&psid=1
+
+
+#EXTINF:-1 group-title="KÊNH CBATVonline" tvg-logo="https://i.imgur.com/DEevG2p_d.webp?maxwidth=640&shape=thumb&fidelity=medium" ,CBATV+ Nhạc tiếng Nga
+#http://rtmp.one.by:2300
+#http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF:-1 group-title="KÊNH CBATVonline" tvg-logo="https://i.imgur.com/DEevG2p_d.webp?maxwidth=640&shape=thumb&fidelity=medium" ,CBATV+ Nhạc Quốc Tế 
+#http://rtmp.one.by:1300
+
+
+
+
+#-------------Kênh Thủ đô---------------
+
+
+#EXTINF:-1 group-title="KÊNH THỦ ĐÔ" tvg-logo="https://i.imgur.com/Je3K25E.png",Hà Nội 1
+#EXTVLCOPT:http-user-agent=VMTTV
+https://sgchill.io.vn/360/33/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH THỦ ĐÔ" tvg-logo="https://i.imgur.com/szivqh2.png",Hà Nội 2 
+#EXTVLCOPT:http-user-agent=VMTTV
+https://sgchill.io.vn/360/34/index.m3u8
+
+
+
+
+
+#-----------KÊNH HTV------------
+
+
+
+
+
+
+#EXTINF:-1 group-title="HTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/HTV1_150x902.jpg",HTV1
+http://118.71.40.202:9981/stream/channelid/152195928?ticket=AA02233FC73172B1D89E0338F1D714FD823964E2&profile=pass
+
+#EXTINF:-1 group-title="HTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/HTV2_150x902.jpg",HTV2
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="HTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/HTV3_150x902.jpg",HTV3
+https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="HTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/HTV4_150x902.jpg",HTV Key
+https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="HTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/HTV7HD_150x902.jpg",HTV7
+http://118.71.40.202:9981/stream/channelid/9862093?ticket=D2EBFC6DEE68ABCCC18D0828ACA035C98C6C6EF3&profile=pass
+
+#EXTINF:-1 group-title="HTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/HTV9HD_150x904.jpg",HTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="HTV THE THAO" tvg-name="HTV THE THAO" group-title="HTVC" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/HTVththao_150x902.jpg",HTV THỂ THAO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
+#https://zclehw.dm.files.1drv.com/y4maXV9m3x1K_PC0O3kIqqXwi3hP_R0pjF2nfuwVo4pxVFTc5Zj1xfRMh74earbSoxTPMvSqDqV7JJAzxroVHKLE5IdOoos2h60HQzTl78sm9SqKAxOFt3XoGXcLfN2E7_cGdWeiZ2ep0CFQqZhlAYqIGYTVu7gSFhjjy7MJ_QWypHVTgBG72DPPHfOItLga-v_Ehps3R5Ll63fxvTogXDZ3A/VE%20Project%201%C3%A2.mp4?download&psid=1
+
+#EXTINF:-1 group-title="HTVC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8c/HTVC_thuanviet.png" ,Thuần Việt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="HTVC" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/HTVCPhn_150x902.jpg",HTVC Phụ Nữ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="HTVC" tvg-logo="https://i.imgur.com/pAqskAN.png",HTVC Phim HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="HTVC" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/HTVCcanhc_150x903.jpg" ,HTVC Ca Nhạc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="HTVC" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/HTVCDulchvcucsng_150x902.jpg" ,HTVC Du Lịch & Cuộc Sống
+https://live.fptplay53.net//epzhd1/htvcdulich_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-ti#tle="HTVC" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/HTVCGianh_150x902.jpg" ,HTVC Gia Đình
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="HTVC" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2019-05-22/6833055-9051942-plus.png",HTVC Plus
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
+
+
+
+
+
+#----------KÊNH ĐỊA PHƯƠNG-------------
+
+
+
+
+#EXTINF:-1 group-title="THVL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_THVL1_HD.png",Vĩnh Long 1
+https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="THVL" tvg-logo="https://i.imgur.com/MsHdGNZ.png",Vĩnh Long 2
+https://live.fptplay53.net/epzhd2/vinhlong2_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="THVL" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565946831604.png",Vĩnh Long 3
+https://live.fptplay53.net/epzch2/vinhlong3_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="THVL" tvg-logo="https://rsstv.gviet.vn/sctv/158/241/1572402060648.png",Vĩnh Long 4
+https://live.fptplay53.net/epzhd2/vinhlong4hd_hls.smil/chunklist.m3u8
