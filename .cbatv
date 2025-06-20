@@ -203,7 +203,7 @@ https://sgchill.io.vn/360/34/index.m3u8
 
 
 #EXTINF:-1 group-title="HTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/HTV1_150x902.jpg",HTV1
-http://118.71.40.202:9981/stream/channelid/152195928?ticket=AA02233FC73172B1D89E0338F1D714FD823964E2&profile=pass
+https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="HTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/HTV2_150x902.jpg",HTV2
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -216,7 +216,8 @@ https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="HTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/HTV7HD_150x902.jpg",HTV7
-http://118.71.40.202:9981/stream/channelid/9862093?ticket=D2EBFC6DEE68ABCCC18D0828ACA035C98C6C6EF3&profile=pass
+EXTVLCOPT:http-user-agent=TVFree/2.1(v2)
+http://tv.khanggtivi.xyz:8880/live2/vod/khongnentromcap.mp4/index.m3u8
 
 #EXTINF:-1 group-title="HTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/HTV9HD_150x904.jpg",HTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
