@@ -7,7 +7,7 @@
 
 #EXTINF:-1 group-title="KÊNH CBATVonline" tvg-logo="https://i.imgur.com/DEevG2p_d.webp?maxwidth=640&shape=thumb&fidelity=medium" , CBATV thông báo tất cả các kênh có thể không hoạt động, CBATV+ CHU BINH AN
 #https://zmlehw.dm.files.1drv.com/y4mc2B5br7J1Ny2mVOb6RTRBR9U_uHF5DYegVGAZDX-8t9za-2wTrdHx-6z8GH8MFjcwfSYrnP3yEcIlyx5f3Y4LaXhH7ECrNQla2SETWay-BdEWpAt3GDAWqj_7O_BCIqII7pzxcumBNTlOsPVw50E-Q2z3DzhRVZJb1rd-7NJMaTk03tlIAq6OnTAp88Pqk0lKPSlKHCNitbi45gejA9BLQ/Cbatv.mp4?download&psid=1
-
+#https://cmcdp3.vtvdigital.vn/hls/ANGIANGTV/03.m3u8
 
 
 
@@ -32,7 +32,7 @@ http://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
 #EXTVLCOPT:http-user-agent=cvmedia/1.1.0
 https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
 
-#EXTINF:-1 tvg-id="vtvcthd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png", VTV Cần Thơ
+#EXTINF:-1 tvg-id="vtvcanthohd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png", VTV Cần Thơ
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 
@@ -183,14 +183,11 @@ https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #-------------Kênh Thủ đô---------------
 
 
-#EXTINF:-1 group-title="KÊNH THỦ ĐÔ" tvg-logo="https://i.imgur.com/Je3K25E.png",Hà Nội 1
-#EXTVLCOPT:http-user-agent=VMTTV
-https://sgchill.io.vn/360/33/index.m3u8
+#EXTINF:-1 tvg-id="hanoitv1" group-title="KÊNH THỦ ĐÔ" tvg-logo="https://i.imgur.com/Je3K25E.png",Hà Nội 1
+https://cmcdp2.vtvdigital.vn/hls/HANOI1TV/03.m3u8
 
-#EXTINF:-1 group-title="KÊNH THỦ ĐÔ" tvg-logo="https://i.imgur.com/szivqh2.png",Hà Nội 2 
-#EXTVLCOPT:http-user-agent=VMTTV
-https://sgchill.io.vn/360/34/index.m3u8
-
+#EXTINF:-1 tvg-id="hanoitv1" group-title="KÊNH THỦ ĐÔ" tvg-logo="https://i.imgur.com/szivqh2.png",Hà Nội 2 
+https://cmcdp3.vtvdigital.vn/hls/HANOI2TV/03.m3u8
 
 
 
@@ -202,23 +199,23 @@ https://sgchill.io.vn/360/34/index.m3u8
 
 
 
-#EXTINF:-1 group-title="HTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/HTV1_150x902.jpg",HTV1
+#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/HTV1_150x902.jpg",HTV1
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="HTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/HTV2_150x902.jpg",HTV2
+#EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/HTV2_150x902.jpg",HTV2
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="HTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/HTV3_150x902.jpg",HTV3
+#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/HTV3_150x902.jpg",HTV3
 https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="HTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/HTV4_150x902.jpg",HTV Key
+#EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/HTV4_150x902.jpg",HTV Key
 https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="HTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/HTV7HD_150x902.jpg",HTV7
+#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/HTV7HD_150x902.jpg",HTV7
 https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="HTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/HTV9HD_150x904.jpg",HTV9
+#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/HTV9HD_150x904.jpg",HTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 
@@ -276,7 +273,115 @@ https://live.fptplay53.net/epzch2/vinhlong3_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="THVL" tvg-logo="https://rsstv.gviet.vn/sctv/158/241/1572402060648.png",Vĩnh Long 4
 https://live.fptplay53.net/epzhd2/vinhlong4hd_hls.smil/chunklist.m3u8
 
--------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="anghiangtv" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H4.png", AN GIANG 1
+https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
+
+#EXTINF:-1 tvg-id="anghiangtv" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/07/atv2.png", AN GIANG 2
+https://cmcdp3.vtvdigital.vn/hls/ANGIANGTV/03.m3u8
+
+#EXTINF:-1 tvg-id="anghiangtv" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H5.png", An GIANG 3
+https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
+
+#EXTINF:-1 tvg-id="hungyentv" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230610/37c8bb18-f7f8-4a09-bdfe-3af1d2033766.jpg?width=500", HƯNG YÊN
+https://cmcdp3.vtvdigital.vn/hls/HUNGYENTV/03.m3u8
+
+#EXTINF:-1 tvg-id="thanhhoatv" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230610/e0706c25-1f24-4b25-b022-ea72d12e50ae.jpg?width=500", THANH HÓA
+https://cmcdp3.vtvdigital.vn/hls/THANHHOATV/03.m3u8
+
+#EXTINF:-1 tvg-id="ngheantv" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230609/1279e429-6991-4f0c-be21-9dc75e29ca5c.jpg?width=500", NGHỆ AN
+https://cmcdp2.vtvdigital.vn/hls/NGHEANTV/03.m3u8
+
+#EXTINF:-1 tvg-id="phuthotv" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230609/121a9fe5-fc3d-4565-bb55-a778c787924a.jpg?width=500", PHÚ THỌ
+https://cmcdp3.vtvdigital.vn/hls/PHUTHOTV/03.m3u8
+
+#EXTINF:-1 tvg-id="ninhbinhtv" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230610/23ce5d79-1d75-4207-b4eb-5639ecb76cb4.jpg?width=500", NINH BÌNH
+https://cmcdp3.vtvdigital.vn/hls/NINHBINHTV/03.m3u8
+
+#EXTINF:-1 tvg-id="quangninhtv" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230610/f5a1165b-d981-47e7-8c14-faa56608130e.jpg?width=500", QUẢNG NINH
+https://cmcdp3.vtvdigital.vn/hls/QUANGNINHTV/03.m3u8
+
+#EXTINF:-1 tvg-id="danangtv1" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250708/2025070814/RTF9mH0WuG-DNRT1-THUMBNAIL-KENHVTVgo-500x281.webp", ĐÀ NẴNG 1
+https://cmcdp3.vtvdigital.vn/hls/DANANGTV/03.m3u8
+
+#EXTINF:-1 tvg-id="thanhhoatv" group-title=" KÊNH ĐỊA PHƯƠNG "  tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230610/e0706c25-1f24-4b25-b022-ea72d12e50ae.jpg?width=500", DÀ NẴNG 2
+
+
+#EXTINF:-1 tvg-id="dongnaitv1" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230615/3ed31e0c-fbb9-4cb3-94c1-dc61adfd59da.jpg?width=500", ĐỒNG NAI 1
+https://cmcdp3.vtvdigital.vn/hls/DONGNAITV/03.m3u8
+
+#EXTINF:-1 tvg-id="dongthaptv1" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230609/0afb380f-c9fd-4e2f-b4a9-e47b73c9e76b.jpg?width=500", ĐỒNG THÁP 1
+https://cmcdp3.vtvdigital.vn/hls/DONGTHAPTV/03.m3u8
+
+#EXTINF:-1 tvg-id="khanhhoatv" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230610/cbbe2068-8ced-45a2-996c-63d42f531127.jpg?width=500", KHÁNH HÒA 
+https://cmcdp3.vtvdigital.vn/hls/KHANHHOATV/03.m3u8
+
+#EXTINF:-1 tvg-id="laichautv" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230609/452199d7-af7a-4b00-b0e7-a0f588b97d83.jpg?width=500", LAI CHÂU
+https://cmcdp2.vtvdigital.vn/hls/LAICHAUTV/01.m3u8
+
+#EXTINF:-1 tvg-id="tayninhtv1" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250708/2025070814/PLVyBHXfz1-TAYNINHTV1-THUMBNAIL-KENHVTVgo-500x281.webp", TÂY NINH 1
+https://live.la34.com.vn/la34/tv-transmux.m3u8
+
+#EXTINF:-1 tvg-id="tayninhtv2" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250708/2025070814/1ybhYp0vfS-TAYNINHTV2-THUMBNAIL-KENHVTVgo-500x281.webp", TÂY NINH 2
+https://cmcdp2.vtvdigital.vn/hls/TAYNINHTV/03.m3u8
+
+#EXTINF:-1 tvg-id="thainguyentv" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230622/e03e7dd9-6288-4c48-9dcc-8d2937b947f8.jpg?width=500", THÁI NGHUYÊN
+https://cmcdp2.vtvdigital.vn/hls/THAINGUYENTV/03.m3u8
+
+#EXTINF:-1 tvg-id="huetv" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250419/2025041918/3ed91d68-6449-41b6-9202-2bad5f7f6e11.webp", HUẾ
+https://cmcdp1.vtvdigital.vn/live/huetv/chunklist_2.m3u8
+
+#EXTINF:-1 tvg-id="camautv" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230610/50f75842-6415-4eb4-be1d-4e9f14bb22b0.jpg?width=500", CÀ MAU 
+https://cmcdp3.vtvdigital.vn/hls/BACLIEUTV/03.m3u8
+
+#EXTINF:-1 tvg-id="daklaktv" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230609/960c627e-dd6f-45d9-a1dd-37f6190c997b.jpg?width=500", ĐĂK LĂK
+https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="quangngaitv" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250724/2025072408/OsUByA6CQG-QUANGNGAI-THUMBNAIL-KENHVTVgo-500x281.webp", QUẢNG NGÃI
+https://vtvgolive-ott3.vtvdigital.vn/live/quangngaitv/chunklist_2.m3u8
+
+#EXTINF:-1 tvg-id="haiphongtv3" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250710/2025071010/3M7pQcaLGE-HAIDUONG-THUMBNAIL-KENHVTVgo-500x281.webp", HẢI PHÒNG 3
+https://cmcdp2.vtvdigital.vn/hls/HAIDUONGTV/03.m3u8
+
+#EXTINF:-1 tvg-id="binhduongtv1" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20240626/4e7f11ca-c05c-437b-a088-6470db98e85d.jpg?width=500", BÌNH DƯƠNG 1
+https://cmcdp2.vtvdigital.vn/hls/BINHDUONGTV/01.m3u8
+
+#EXTINF:-1 tvg-id="dienbientv" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230610/8600437a-6698-474b-b11f-4397ce3a4965.jpg?width=500", ĐIỆN BIÊN
+https://vtvgo-kenhdp-zend.vtvdigital.vn/kenhdp/dienbientv_720p.m3u8
+
+#EXTINF:-1 tvg-id="bacgiangtv" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250711/2025071118/aUnuN4tqI2-BTV-THUMBNAIL-KENHVTVgo-500x281.webp", BẮC GIANG
+https://cmcdp3.vtvdigital.vn/hls/BACGIANGTV/03.m3u8
+
+#EXTINF:-1 tvg-id="vungtautv" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20250114/11b546cc-ae0f-4afc-acd4-103cb46f234a.jpg?width=500", VŨNG TÀU
+https://cmcdp2.vtvdigital.vn/hls/VUNGTAUTV/03.m3u8
+
+#EXTINF:-1 tvg-id="sonlatv" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20250225/a5c18be0-3a0d-4e22-8f70-0a9783439668.jpg?width=500", SƠN LA
+https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="tuyenquangtv" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230610/e0706c25-1f24-4b25-b022-ea72d12e50ae.jpg?width=500", TUYÊN QUANG
+https://cmcdp3.vtvdigital.vn/hls/HAGIANGTV/03.m3u8
+
+#EXTINF:-1 tvg-id="gialaitv" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250708/2025070814/BzEXSIakxh-GTV-THUMBNAIL-KENHVTVgo-500x281.webp", GIA LAI
+https://cmcdp.vtvdigital.vn/live/binhdinhtv/chunklist_1.m3u8
+
+#EXTINF:-1 tvg-id="quangtritv" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250710/2025071010/0dlUI4wyHn-QUANGTRI-THUMBNAIL-KENHVTVgo-500x281.webp", QUẢNG TRỊ
+https://media.qbtv.vn/LiveApp/streams/UfqMzQUuZFxD69275138146969.m3u8
+
+#EXTINF:-1 tvg-id="laocaitv" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20231213/1dcdb882-21c3-4cdf-b533-2a40559b383c.jpg?width=500", LÀO CAI
+https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
+
+#EXTINF:-1 tvg-id="caobangtv" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250629/2025062921/NnWwvFn0Kw-02-THUMB-CAOBANG.webp", CAO BẰNG
+https://cmcdp1.vtvdigital.vn/live/caobangtv/chunklist_2.m3u8
+
+#EXTINF:-1 tvg-id="hatinhtv" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250629/2025062922/04eGcv4Obg-02-THUMB-HATINH.webp", HÀ TĨNH
+https://cmcdp.vtvdigital.vn/live/hatinhtv/chunklist_2.m3u8
+
+#EXTINF:-1 tvg-id="thanhhoatv" group-title=" KÊNH ĐỊA PHƯƠNG " tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230610/e0706c25-1f24-4b25-b022-ea72d12e50ae.jpg?width=500", THANH HÓA
+
+
+
+
+
 
 
 
