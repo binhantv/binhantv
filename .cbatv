@@ -401,3 +401,32 @@ https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 
 
+#-----------------------------------------------------------
+
+
+#EXTINF:-1 tvg-id="woman-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/woman-hd/KenhCoBan",Woman HD
+https://xem.hoiquan.Click/CoBan/woman-hd/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="music-box" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/music-box/KenhCoBan",Music box
+https://xem.hoiquan.Click/CoBan/music-box/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="nhk" group-title="Kênh quốc tế" group-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple111/v4/bc/66/b0/bc66b085-22a7-1da2-467d-eeac946fcde6/source/512x512bb.jpg",NHK
+https://xem.hoiquan.Click/CoBan/nhk/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="france-24" group-title="Kênh quốc tế" group-logo="https://img.hplus.com.vn/728x409/banner/2022/08/19/841800-france-24-logo.png",France 24
+https://xem.hoiquan.Click/CoBan/france-24/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="tv5" group-title="Kênh quốc tế" group-logo="https://canada-culture.org/wp-content/uploads/2010/03/Logo-TV5-Monde-2010.png",TV5 MONDE
+https://xem.hoiquan.Click/CoBan/tv5/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="arirang" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.seeklogo.com/logo-png/20/2/arirang-logo-png_seeklogo-208999.png",Arirang
+https://xem.hoiquan.Click/CoBan/arirang/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="hgtv" group-title="Kênh quốc tế" group-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/HGTV_Logo.jpg",HGTV
+https://xem.hoiquan.Click/CoBan/hgtv/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="kbs-world" group-title="Kênh quốc tế" group-logo="https://brandeps.com/logo-download/K/KBS-World-logo-01.png",KBS World
+https://xem.hoiquan.Click/CoBan/kbs-world/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="dw" group-title="Kênh quốc tế" group-logo="  https://i.pinimg.com/236x/65/cf/c8/65cfc8ee4f51017ac003ebfb8e814af8.jpg",DW
+https://xem.hoiquan.Click/CoBan/dw/TuyetDoiKhongKinhDoanh.m3u8
