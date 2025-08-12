@@ -173,8 +173,8 @@ https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 
 
 #EXTINF:-1 group-title="KÊNH CBATVonline" tvg-logo="https://i.imgur.com/DEevG2p_d.webp?maxwidth=640&shape=thumb&fidelity=medium" ,CBATV+ Nhạc tiếng Nga
-#http://rtmp.one.by:2300
-http://hz1.teleport.cc/HLS/HD.m3u8
+http://rtmp.one.by:2300
+#http://hz1.teleport.cc/HLS/HD.m3u8
 
 #EXTINF:-1 group-title="KÊNH CBATVonline" tvg-logo="https://i.imgur.com/DEevG2p_d.webp?maxwidth=640&shape=thumb&fidelity=medium" ,CBATV+ Nhạc Quốc Tế 
 http://rtmp.one.by:1300
