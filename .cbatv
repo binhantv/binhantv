@@ -50,7 +50,9 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
-
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://cdn-images.vtv.vn/thumb_w/1000/66349b6076cb4dee98746cf1/2025/09/06/1-23432498321318732356080.jpg",VIETNAM TODAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://vtvgolive-ssaimh.vtvdigital.vn/AVZiBOszmcylbAGlFcYeJA/1757236774/manifest/vietnamtoday/playlist-pre_1080p.m3u8
 
 
 #-------------THỜI SỰ - CHÍNH TRỊ---------------
