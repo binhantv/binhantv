@@ -31,12 +31,12 @@ http://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/VTV5_150x901.jpg",VTV5
 #EXTVLCOPT:http-user-agent=cvmedia/1.1.0
-#https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
-https://xem.hoiquan.Click/CoBan/vtv5-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
 
 #EXTINF:-1 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png", VTV Cần Thơ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+https://xem.hoiquan.Click/CoBan/vtv-can-tho/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/VTV7_150x901.jpg",VTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -51,10 +51,9 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://cdn-images.vtv.vn/thumb_w/1000/66349b6076cb4dee98746cf1/2025/09/06/1-23432498321318732356080.jpg",VIETNAM TODAY
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/09/08/01/1757269794942/5eec2684d261_640_360.png",VIETNAM TODAY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vtvgolive-ssaimh.vtvdigital.vn/AVZiBOszmcylbAGlFcYeJA/1757236774/manifest/vietnamtoday/playlist-pre_1080p.m3u8
-
+https://vtvgolive-ssaimh.vtvdigital.vn/-u8hoxyINLlc3-Q7QCUzag/1757488671/manifest/vietnamtoday/playlist-pre_1080p.m3u8
 
 #-------------THỜI SỰ - CHÍNH TRỊ---------------
 
@@ -175,8 +174,8 @@ https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 
 
 #EXTINF:-1 group-title="KÊNH CBATVonline" tvg-logo="https://i.imgur.com/DEevG2p_d.webp?maxwidth=640&shape=thumb&fidelity=medium" ,CBATV+ Nhạc tiếng Nga
-http://rtmp.one.by:2300
-#http://hz1.teleport.cc/HLS/HD.m3u8
+#http://rtmp.one.by:2300
+http://hz1.teleport.cc/HLS/HD.m3u8
 
 #EXTINF:-1 group-title="KÊNH CBATVonline" tvg-logo="https://i.imgur.com/DEevG2p_d.webp?maxwidth=640&shape=thumb&fidelity=medium" ,CBATV+ Nhạc Quốc Tế 
 http://rtmp.one.by:1300
@@ -282,7 +281,7 @@ https://live.fptplay53.net/epzhd2/vinhlong4hd_hls.smil/chunklist.m3u8
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 
 #EXTINF:-1 tvg-id="angiang" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://s129145.cdn.mytvnet.vn/vimages/21/19/97/73/3e/e0/21973-pangiang2-channel-unkn.png", AN GIANG 2
-https://cmcdp3.vtvdigital.vn/hls/ANGIANGTV/03.m3u8
+https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
 
 #EXTINF:-1 tvg-id="kiengiang1" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H5.png", An GIANG 3
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
